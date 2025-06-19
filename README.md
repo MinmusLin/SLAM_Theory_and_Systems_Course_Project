@@ -18,6 +18,9 @@ Course project of SLAM theory and systems.
 * `/References`
 参考文献
 
+* `/assets`
+存放 `Presentation.md` 文件所需的相关图片资源
+
 * `Presentation.md`
 课程项目汇报
 
