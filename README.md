@@ -15,13 +15,13 @@ Course project of SLAM theory and systems.
 
 ## 仓库组成
 
-`/References`
+* `/References`
 参考文献
 
-`Presentation.md`
+* `Presentation.md`
 课程项目汇报
 
-`Report.md`
+* `Report.md`
 课程项目报告
 
 ## 免责声明
